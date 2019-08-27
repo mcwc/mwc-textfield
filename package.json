@@ -13,7 +13,7 @@
     "@material/mwc-line-ripple": "git+https://github.com/mcwc/mwc-line-ripple.git",
     "@material/mwc-base": "^0.6.0",
     "@material/mwc-floating-label": "git+https://github.com/mcwc/mwc-floating-label.git",
-    "@material/mwc-icon": "git+https://github.com/mcwc/mwc-icon.git",
+    "@material/mwc-icon": "^0.6.0",
     "@material/mwc-notched-outline": "git+https://github.com/mcwc/mwc-notched-outline.git",
     "@material/textfield": "^3.0.0",
     "@material/shape": "^3.0.0",
